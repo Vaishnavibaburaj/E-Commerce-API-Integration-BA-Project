@@ -27,4 +27,5 @@ The project proposes an automated system using APIs to:
 - FRD
 - UAT Test Cases
 - AS-IS and TO-BE Diagrams
+- System Architecture Diagram
 
